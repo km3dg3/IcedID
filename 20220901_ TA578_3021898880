@@ -1,0 +1,13 @@
+document_[number]_september_unpaid_invoice.zip
+password=090122
+
+cmd.exe /c start /d E:\ /wait "" "E:\Document.lnk"
+cmd.exe C:\Windows\system32\cmd.exe /c ""E:\neb\walking.bat" "
+rundll32.exe rundll32 neb\goaltending.dll,#1
+
+
+IcedID Loader 
+c2: http://donorcabr.com/
+BotID: 3021898880
+
+https://bazaar.abuse.ch/sample/1352dc0a79091ad63045b9b7adc43b809f57c6bbb7e741e9b237a44e41767e4c/
